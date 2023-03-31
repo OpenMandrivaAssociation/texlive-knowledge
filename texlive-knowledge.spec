@@ -1,6 +1,6 @@
 Name:		texlive-knowledge
 Version:	61991
-Release:	1
+Release:	2
 Summary:	Displaying, hyperlinking, and indexing notions in a document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/knowledge
