@@ -3,7 +3,7 @@ Version:	70594
 Release:	1
 Summary:	Displaying, hyperlinking, and indexing notions in a document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/knowledge
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/knowledge
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/knowledge.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/knowledge.doc.r%{version}.tar.xz
